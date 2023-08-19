@@ -1,4 +1,4 @@
-## Matt Chapman's data science and ML portfolio project
+## Amit Patel's Data Science and ML portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
